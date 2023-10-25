@@ -49,17 +49,3 @@ To make a habit harder to do, Clear suggests making it invisible, unattractive, 
 you can hide or remove cues for a bad habit (making it invisible), associate negative consequences with the habit (making it unattractive), 
 and increase the effort or obstacles required to perform the habit (making it difficult).
 
-
-### Question 8: 
-Pick one habit that you would like to do more of? What are the steps that you can take to make it make the cue obvious or the habit more 
-attractive or easy and or response satisfying?
-### Answer 
-Please specify the habit you'd like to do more of, and I can provide steps to make the cue obvious, 
-the habit more attractive, or easier.
-
-### Question 9: 
-Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or 
-the process unattractive or hard or the response unsatisfying?
-### Answer 
-Please specify the habit you'd like to eliminate or do less of, and I can provide steps to make the cue invisible, 
-the process unattractive, or harder, or the response unsatisfying.
